@@ -1,6 +1,5 @@
 # Robot-Speaker
 
-# RobotSpeaker
 
 ## Overview
 
